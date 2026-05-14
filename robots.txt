@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lairoflexx.github.io/lairoflexx.github.io/sitemap.xml
